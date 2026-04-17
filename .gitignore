@@ -22,4 +22,4 @@ Thumbs.db
 .vscode/
 
 # Environment variables
-.env
+.envmlruns/
