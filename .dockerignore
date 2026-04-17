@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.git/
+.env
+*.ipynb
+*.csv
+venv/
+.DS_Store
+mlruns/
+notebooks/
+data/
