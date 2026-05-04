@@ -100,7 +100,7 @@ python -m ipykernel install --user --name=uber-cancellation --display-name "Pyth
 
 ## Running the Notebook
 
-Open `notebooks/Cancellation_Ride_Prediction_v4.ipynb` in VS Code and select the **"Python (uber-cancellation)"** kernel. Run all cells in order. Section 10 will generate `models/best_pipeline.pkl` and MLflow logs in `mlruns/`.
+Open `notebooks/Cancellation_Ride_Prediction_v5.ipynb` in VS Code and select the **"Python (uber-cancellation)"** kernel. Run all cells in order. Section 10 will generate `models/best_pipeline.pkl` and MLflow logs in `mlruns/`.
 
 ---
 
